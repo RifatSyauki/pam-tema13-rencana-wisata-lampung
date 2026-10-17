@@ -6,7 +6,7 @@ import androidx.compose.ui.window.application
 fun main() = application {
     Window(
         onCloseRequest = ::exitApplication,
-        title = "pam_tema13_rencana_wisata_lampung",
+        title = "Rencana Wisata Lampung",
     ) {
         App()
     }
