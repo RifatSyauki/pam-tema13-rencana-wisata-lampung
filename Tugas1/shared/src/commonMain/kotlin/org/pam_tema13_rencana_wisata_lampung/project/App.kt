@@ -63,8 +63,12 @@ fun App() {
                 ) {
                     Text("Tentang", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.SemiBold)
                     Text("Anggota kelompok", style = MaterialTheme.typography.labelLarge)
-                    Text("Syuhada Rantisi", style = MaterialTheme.typography.bodyLarge)
+
+                    Text("Syuhada Rantisi (Ketua)", style = MaterialTheme.typography.bodyLarge)
                     Text("NIM: 122140092", style = MaterialTheme.typography.bodyMedium)
+
+                    Text("M. Rif'at Syauki", style = MaterialTheme.typography.bodyLarge)
+                    Text("NIM: 124140138", style = MaterialTheme.typography.bodyMedium)
                 }
             }
         }

@@ -6,7 +6,8 @@ Proyek kelompok Kotlin Multiplatform dengan Compose Multiplatform untuk tema **R
 
 | Nama | NIM |
 | --- | --- |
-| Syuhada Rantisi | 122140092 |
+| Syuhada Rantisi (Ketua) | 122140092 |
+| M. Rif'at Syauki | 124140138 |
 
 ## Menjalankan aplikasi
 
