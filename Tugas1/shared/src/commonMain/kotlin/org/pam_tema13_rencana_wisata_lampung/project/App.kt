@@ -69,6 +69,9 @@ fun App() {
 
                     Text("M. Rif'at Syauki", style = MaterialTheme.typography.bodyLarge)
                     Text("NIM: 124140138", style = MaterialTheme.typography.bodyMedium)
+
+                    Text("Akhdan Arif Prayoga", style = MaterialTheme.typography.bodyLarge)
+                    Text("NIM: 122140099", style = MaterialTheme.typography.bodyMedium)
                 }
             }
         }

@@ -4,10 +4,11 @@ Proyek kelompok Kotlin Multiplatform dengan Compose Multiplatform untuk tema **R
 
 ## Anggota
 
-| Nama | NIM |
-| --- | --- |
+| Nama                    | NIM       |
+|-------------------------|-----------|
 | Syuhada Rantisi (Ketua) | 122140092 |
-| M. Rif'at Syauki | 124140138 |
+| M. Rif'at Syauki        | 124140138 |
+| Akhdan Arif Prayoga     | 122140099 |
 
 ## Menjalankan aplikasi
 
@@ -17,7 +18,7 @@ Proyek kelompok Kotlin Multiplatform dengan Compose Multiplatform untuk tema **R
 
 Kode antarmuka bersama berada di `shared/src/commonMain`, dengan implementasi platform di masing-masing source set.
 
-## Pengujian
+## Pengujian| M. Rif'at Syauki | 124140138 |
 
 - Desktop: `./gradlew :shared:jvmTest`
 - Android: `./gradlew :shared:testAndroidHostTest`
