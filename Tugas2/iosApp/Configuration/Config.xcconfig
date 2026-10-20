@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=pam_tema13_rencana_wisata_lampung
+PRODUCT_BUNDLE_IDENTIFIER=org.tugaspam.project.pam_tema13_rencana_wisata_lampung$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
