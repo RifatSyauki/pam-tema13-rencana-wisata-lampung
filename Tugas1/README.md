@@ -29,4 +29,4 @@ Kode antarmuka bersama berada di `shared/src/commonMain`, dengan implementasi pl
 
 Tampilan aplikasi pada emulator Android:
 
-![Tampilan Rencana Wisata Lampung di Android](screenshots/android.png)
+![Tampilan Rencana Wisata Lampung di Android](screenshots/ScreenshotAnggota.png)
