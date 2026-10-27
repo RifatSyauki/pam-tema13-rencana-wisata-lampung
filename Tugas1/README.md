@@ -9,6 +9,7 @@ Proyek kelompok Kotlin Multiplatform dengan Compose Multiplatform untuk tema **R
 | Syuhada Rantisi (Ketua) | 122140092 |
 | M. Rif'at Syauki        | 124140138 |
 | Akhdan Arif Prayoga     | 122140099 |
+| Muhammad Refah Alfarabi | 124140216 |
 
 ## Menjalankan aplikasi
 
