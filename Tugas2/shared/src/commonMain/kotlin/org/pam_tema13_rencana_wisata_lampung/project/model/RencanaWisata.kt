@@ -7,7 +7,7 @@ sealed class StatusRencana {
 }
 
 data class RencanaWisata(
-    val id: Int
+    val id: Int,
     val judul: String,
     val tanggal: String,
     val destinasi: DestinasiWisata,
