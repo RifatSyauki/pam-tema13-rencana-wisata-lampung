@@ -10,7 +10,7 @@ object DummyData{
             namaLokasi = "Pantai Tanjung Setia",
             deskripsi = "Pantai dengan ombak besar yang terkenal " +
                     "sebagai destinasi surfing di Lampung Barat.",
-            footUrl = null
+            fotoUrl = null
         ),
 
         DestinasiWisata(
@@ -18,7 +18,7 @@ object DummyData{
             namaLokasi = "Pulau Pahawang",
             deskripsi = "Pulau dengan keindahan bawah laut, " +
                     "terumbu karang, dan aktivitas snorkeling.",
-            footUrl = null
+            fotoUrl = null
         ),
 
         DestinasiWisata(
@@ -26,7 +26,7 @@ object DummyData{
             namaLokasi = "Taman Nasional Way Kambas",
             deskripsi = "Kawasan konservasi gajah Sumatera " +
                     "dan berbagai satwa liar lainnya.",
-            footUrl = null
+            fotoUrl = null
         ),
     )
 
