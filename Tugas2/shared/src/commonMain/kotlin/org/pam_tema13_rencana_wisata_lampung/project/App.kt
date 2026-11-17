@@ -18,11 +18,16 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
+import org.pam_tema13_rencana_wisata_lampung.project.data.DummyData
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 
 @Composable
 @Preview
 fun App() {
     MaterialTheme {
+        DaftarDestinasiScreen()
         Column(
             modifier = Modifier
                 .background(MaterialTheme.colorScheme.surface)
@@ -76,6 +81,26 @@ fun App() {
                     Text("Muhammad Refah Alfarabi", style = MaterialTheme.typography.bodyLarge)
                     Text("NIM: 124140216", style = MaterialTheme.typography.bodyMedium)
                 }
+            }
+        }
+    }
+}
+
+@Composable
+fun DaftarDestinasiScreen() {
+    LazyColumn {
+        items(DummyData.daftarDestinasi) { destinasi ->
+            Column(
+                modifier = Modifier.padding(16.dp)
+            ) {
+                Text (
+                    text = destinasi.namaLokasi,
+                    fontSize = 18.sp
+                )
+                Text (
+                    text = destinasi.deskripsi,
+                    fontSize = 14.sp
+                )
             }
         }
     }
